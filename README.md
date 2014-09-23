@@ -1,4 +1,4 @@
 QueueImplementation
 ===================
-test u
-My personal queue implementation that consists several implementations of queues using array and linked list.
+
+My personal queue implementation that consists two implementations of queue using circular array and linked list.
