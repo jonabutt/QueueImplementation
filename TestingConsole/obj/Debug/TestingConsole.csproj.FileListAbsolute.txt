@@ -1,0 +1,8 @@
+C:\Users\John\Dropbox\fun\QueueImplemenation\TestingConsole\bin\Debug\TestingConsole.exe.config
+C:\Users\John\Dropbox\fun\QueueImplemenation\TestingConsole\bin\Debug\TestingConsole.exe
+C:\Users\John\Dropbox\fun\QueueImplemenation\TestingConsole\bin\Debug\TestingConsole.pdb
+C:\Users\John\Dropbox\fun\QueueImplemenation\TestingConsole\bin\Debug\QueueImplemenation.dll
+C:\Users\John\Dropbox\fun\QueueImplemenation\TestingConsole\bin\Debug\QueueImplemenation.pdb
+C:\Users\John\Dropbox\fun\QueueImplemenation\TestingConsole\obj\Debug\TestingConsole.csprojResolveAssemblyReference.cache
+C:\Users\John\Dropbox\fun\QueueImplemenation\TestingConsole\obj\Debug\TestingConsole.exe
+C:\Users\John\Dropbox\fun\QueueImplemenation\TestingConsole\obj\Debug\TestingConsole.pdb
