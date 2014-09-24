@@ -47,6 +47,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QueueArray.cs" />
     <Compile Include="QueueCircularArray.cs" />
+    <Compile Include="QueueLinkedList.cs" />
+    <Compile Include="QueueLinkedListNode.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
